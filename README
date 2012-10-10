@@ -1,0 +1,5 @@
+This Repository contains vulnerable code for users to play with and exploit.
+
+demo.c - vulnerable to a form of memory corruption.
+
+
